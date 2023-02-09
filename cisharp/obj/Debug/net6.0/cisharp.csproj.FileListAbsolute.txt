@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\C##lesson\cisharp\bin\Debug\net6.0\cisharp.exe
+C:\Users\User\Desktop\C##lesson\cisharp\bin\Debug\net6.0\cisharp.deps.json
+C:\Users\User\Desktop\C##lesson\cisharp\bin\Debug\net6.0\cisharp.runtimeconfig.json
+C:\Users\User\Desktop\C##lesson\cisharp\bin\Debug\net6.0\cisharp.dll
+C:\Users\User\Desktop\C##lesson\cisharp\bin\Debug\net6.0\cisharp.pdb
+C:\Users\User\Desktop\C##lesson\cisharp\obj\Debug\net6.0\cisharp.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C##lesson\cisharp\obj\Debug\net6.0\cisharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C##lesson\cisharp\obj\Debug\net6.0\cisharp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C##lesson\cisharp\obj\Debug\net6.0\cisharp.AssemblyInfo.cs
+C:\Users\User\Desktop\C##lesson\cisharp\obj\Debug\net6.0\cisharp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C##lesson\cisharp\obj\Debug\net6.0\cisharp.dll
+C:\Users\User\Desktop\C##lesson\cisharp\obj\Debug\net6.0\refint\cisharp.dll
+C:\Users\User\Desktop\C##lesson\cisharp\obj\Debug\net6.0\cisharp.pdb
+C:\Users\User\Desktop\C##lesson\cisharp\obj\Debug\net6.0\cisharp.genruntimeconfig.cache
+C:\Users\User\Desktop\C##lesson\cisharp\obj\Debug\net6.0\ref\cisharp.dll
